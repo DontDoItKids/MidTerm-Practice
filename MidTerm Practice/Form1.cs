@@ -42,7 +42,7 @@ namespace MidTerm_Practice
 
         private void rBtn2_CheckedChanged(object sender, EventArgs e)
         {
-            this.BackColor = Color.FromArgb(3, 1, 4);
+            this.BackColor = Color.FromArgb(132, 111, 47);
         }
 
         private void rBtn3_CheckedChanged(object sender, EventArgs e)
@@ -123,9 +123,6 @@ namespace MidTerm_Practice
 
                 Counter++;
                 
-
-                
-
             }
             
 
